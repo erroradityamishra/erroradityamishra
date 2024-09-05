@@ -19,14 +19,14 @@
 
 - 🌱 I’m currently learning **AI & ML**
 
-- 📫 How to reach me **aditya.mishra.bca.2022@mitmeerut.ac.in**
+- 📫 How to reach me **work.adityaxmishra@gmail.com**
 
 - ⚡ Fun fact **I think , I'm Techy Human**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mradityamishraji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mradityamishraji" height="30" width="40" /></a>
-<a href="https://instagram.com/mishraji_only" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mishraji_only" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/erroradityamishra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mradityamishraji" height="30" width="40" /></a>
+<a href="https://instagram.com/adityamishraonly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mishraji_only" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@DecodeWithAdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="decode with adi" height="30" width="40" /></a>
 </p>
 
